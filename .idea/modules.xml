@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Concurrency in Java/Concurrency in Java.iml" filepath="$PROJECT_DIR$/Concurrency in Java/Concurrency in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Learning-From-Masterclass.iml" filepath="$PROJECT_DIR$/.idea/Java-Learning-From-Masterclass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflection in Java/Reflection in Java.iml" filepath="$PROJECT_DIR$/Reflection in Java/Reflection in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Streams/Streams.iml" filepath="$PROJECT_DIR$/Streams/Streams.iml" />
     </modules>
   </component>
 </project>
